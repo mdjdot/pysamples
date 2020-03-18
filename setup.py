@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pysamples",
-    version="0.0.1",
+    version="0.0.2",
     author="Dejian Meng",
     author_email="medean@live.cn",
     description="Python samples package",
