@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+"""
+https://cn.python-requests.org/zh_CN/latest/
+"""
 import json
 import requests
 

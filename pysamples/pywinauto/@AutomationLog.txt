@@ -1,0 +1,11 @@
+
+I will open Notepad and automate it. Please wait for a while.
+Notepad exists now
+Notepad still exists after 3 seconds
+script exits
+2020-03-20 21:31:14.436 winauto.py[117] <module> -> Find Control Timeout: {ControlType: WindowControl}
+2020-03-20 21:31:29.135 pydevd_resolver.py[180] _get_py_dictionary -> Find Control Timeout: {Automationid: 'MenuBar', ControlType: WindowControl}
+2020-03-20 21:32:02.475 pydevd_resolver.py[215] _get_py_dictionary -> Find Control Timeout: {Automationid: 'MenuBar', ControlType: WindowControl}
+2020-03-20 21:32:13.215 pydevd_resolver.py[215] _get_py_dictionary -> Find Control Timeout: {Automationid: 'MenuBar', ControlType: WindowControl}
+2020-03-20 21:33:04.509 pydevd_resolver.py[215] _get_py_dictionary -> Find Control Timeout: {Automationid: 'MenuBar', ControlType: WindowControl}
+2020-03-20 21:33:15.109 pydevd_resolver.py[215] _get_py_dictionary -> Find Control Timeout: {Automationid: 'MenuBar', ControlType: WindowControl}
