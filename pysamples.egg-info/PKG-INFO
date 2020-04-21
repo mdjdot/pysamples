@@ -1,6 +1,6 @@
 Metadata-Version: 1.2
 Name: pysamples
-Version: 0.0.2
+Version: 0.0.4
 Summary: Python samples package
 Home-page: https://github.com/mdjdot/pysamples
 Author: Dejian Meng
@@ -10,14 +10,21 @@ Description: Pysamples Package
         
         This is a python samples collection package.
         
-        How to upload package to pypi  
+        How to upload package to pypi
+        
         python -m pip 
-        install --user --upgrade setuptools wheel  
-        python .\setup.py sdist bdist_wheel  
-        python -m pip install --user --upgrade twine  
-        python -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*  
-        pip install -i https://test.pypi.org/simple/ pysamples==0.0.1  
-        python -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*  
+        install --user --upgrade setuptools wheel
+        
+        python .\setup.py sdist bdist_wheel
+        
+        python -m pip install --user --upgrade twine
+        
+        python -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*
+        
+        pip install -i https://test.pypi.org/simple/ pysamples==0.0.4
+        
+        python -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
+        
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

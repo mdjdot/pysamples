@@ -1,11 +1,11 @@
 import setuptools
 
 with open("README.md", "r") as fh:
-    long_description = fh.read()
+    long_description = fh.read().replace("  ", "\n", -1)
 
 setuptools.setup(
     name="pysamples",
-    version="0.0.2",
+    version="0.0.4",
     author="Dejian Meng",
     author_email="medean@live.cn",
     description="Python samples package",
